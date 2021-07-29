@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @henyapps
-- 👀 I’m interested in Creating Mobile Apps
-- 🌱 I’m currently learning Projectx
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in -- Creating Mobile Apps
+- 🌱 I’m familiar with -- Java
 - 📫 How to reach me apps.henyapps@gmail.com
 
 <!---
